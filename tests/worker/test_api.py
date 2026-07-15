@@ -18,6 +18,7 @@ def settings(tmp_path: Path) -> Settings:
         final_revision="strict",
         language="sv",
         cuda_device=0,
+        compute_type="float16",
     )
 
 
