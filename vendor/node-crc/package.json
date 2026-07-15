@@ -1,0 +1,6 @@
+{
+  "name": "node-crc",
+  "version": "0.0.0-local",
+  "main": "index.js",
+  "description": "Pure-JS Ogg-compatible CRC for prism-media (no Rust toolchain)"
+}

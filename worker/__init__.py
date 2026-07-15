@@ -1,0 +1,1 @@
+"""Local Discord transcription worker."""
